@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-This is a web application that generates a random quote every time a user clicks on the "New Quote" button.
+This is a web application that generates a random quote every time a user clicks on the "Change Quote" button.
 
 You can access the deployed application [here](https://random-quotes-generator-v1.netlify.app/).
 
