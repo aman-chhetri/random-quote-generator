@@ -4,7 +4,7 @@ This is a web application that generates a random quote every time a user clicks
 
 You can access the deployed application [here](https://random-quotes-generator-v1.netlify.app/).
 
-## Technologies used
+## Technologies used 🧑‍💻
 
 - Javascript
 - React JS
