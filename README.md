@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-This is a web application that generates a random quote every time a user clicks on the "Change Quote" button.
+This web application is built using React, Vite, and TypeScript, providing you with an easy and enjoyable way to discover and share inspiring quotes. With just a click of a button, you can refresh your mind with a new random quote and even share your favorite quotes on Twitter.
 
 You can access the deployed application [here](https://random-quotes-generator-v1.netlify.app/).
 
@@ -15,25 +15,31 @@ You can access the deployed application [here](https://random-quotes-generator-v
 
 ## **How to use 📦**
 
-1. Clone Template
+1. Clone the repository to your local machine
 
 ```
 git clone https://github.com/aman-chhetri/random-quote-generator.git
 ```
 
-2. Install Packages
+2. Navigate to the project directory
+
+```
+cd random-quote-generator
+```
+
+3. Install the dependencies
 
 ```
 npm install
 ```
 
-3. Start Project
+4. Start the development server
 
 ```
 npm run dev
 ```
 
-# Contributing
+## Contributing
 
 It is publicly open for any contribution. Bugfixes, new features, and extra modules are welcome.
 
